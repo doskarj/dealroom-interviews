@@ -7,7 +7,7 @@
           "74x74": "https://s3-eu-west-1.amazonaws.com/dealroom-images/85/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMS8xMi8yMC8zZjhiMGQ2MzE4MWU3NzA4NjllY2Q2ZWZjMzY3OWY0Mg==.png",
           "100x100": "https://s3-eu-west-1.amazonaws.com/dealroom-images/c3/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIxLzEyLzIwLzNmOGIwZDYzMTgxZTc3MDg2OWVjZDZlZmMzNjc5ZjQy.png"
       },
-      "employees_latest": null
+      "employees_latest": "200-500"
     },
     {
       "name": "Flow Neuroscience",
@@ -16,7 +16,7 @@
           "74x74": "https://s3-eu-west-1.amazonaws.com/dealroom-images/a0/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMS8xMi8yMC9hOTc3ZGNkMTA3MGE0MzMzOWQ1NDA0MDYxZDA4MzYyNQ==.png",
           "100x100": "https://s3-eu-west-1.amazonaws.com/dealroom-images/bb/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIxLzEyLzIwL2E5NzdkY2QxMDcwYTQzMzM5ZDU0MDQwNjFkMDgzNjI1.png"
       },
-      "employees_latest": null
+      "employees_latest": "200-500"
     },
     {
       "name": "Ungapped",
@@ -25,7 +25,7 @@
           "74x74": "https://s3.eu-west-2.amazonaws.com/dealroom-static/null/company-74.png",
           "100x100": "https://s3.eu-west-2.amazonaws.com/dealroom-static/null/company-100.png"
       },
-      "employees_latest": null
+      "employees_latest": "200-500"
     },
     {
       "name": "Snowfire",
@@ -34,7 +34,7 @@
           "74x74": "https://s3-eu-west-1.amazonaws.com/dealroom-images/bf/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMS8xMi8yMC83NjNkMDRkZDU4YmVjNjcwMDc2YWE5Yjg5ZWQ4ODZkMw==.png",
           "100x100": "https://s3-eu-west-1.amazonaws.com/dealroom-images/ca/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIxLzEyLzIwLzc2M2QwNGRkNThiZWM2NzAwNzZhYTliODllZDg4NmQz.png"
       },
-      "employees_latest": null
+      "employees_latest": "200-500"
     },
     {
       "name": "Moony Lab",
@@ -43,7 +43,7 @@
           "74x74": "https://s3-eu-west-1.amazonaws.com/dealroom-images/db/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMS8xMi8yMC8xZjk1NzBlYzlmMTAyZGYwYmU4ZGZkMWRlZTM4OGZkOA==.png",
           "100x100": "https://s3-eu-west-1.amazonaws.com/dealroom-images/e7/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIxLzEyLzIwLzFmOTU3MGVjOWYxMDJkZjBiZThkZmQxZGVlMzg4ZmQ4.png"
       },
-      "employees_latest": null
+      "employees_latest": "200-500"
     },
     {
       "name": "Roofit.solar",
@@ -52,7 +52,7 @@
           "74x74": "https://s3-eu-west-1.amazonaws.com/dealroom-images/c7/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMS8xMi8yMC9hY2FiMzdiMjYzMjMzYmQzZTJlYzRiZGFlMmU4OTk2Mw==.png",
           "100x100": "https://s3-eu-west-1.amazonaws.com/dealroom-images/31/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIxLzEyLzIwL2FjYWIzN2IyNjMyMzNiZDNlMmVjNGJkYWUyZTg5OTYz.png"
       },
-      "employees_latest": null
+      "employees_latest": "200-500"
     },
     {
       "name": "Infrakit",
@@ -61,7 +61,7 @@
           "74x74": "https://s3-eu-west-1.amazonaws.com/dealroom-images/8f/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMS8xMi8yMC9lMDg0ZmM4MWU4NWJiN2JlMjdlMmQ1OTE3MTQyNGQ0NQ==.png",
           "100x100": "https://s3-eu-west-1.amazonaws.com/dealroom-images/79/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIxLzEyLzIwL2UwODRmYzgxZTg1YmI3YmUyN2UyZDU5MTcxNDI0ZDQ1.png"
       },
-      "employees_latest": null
+      "employees_latest": "200-500"
     },
     {
       "name": "Finnchat",
@@ -70,7 +70,7 @@
           "74x74": "https://s3-eu-west-1.amazonaws.com/dealroom-images/75/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMS8xMi8yMC82YWE1YTVkMGRkODY3OGU5MzYxMzk4OTA2MDg4Yjc2MA==.png",
           "100x100": "https://s3-eu-west-1.amazonaws.com/dealroom-images/95/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIxLzEyLzIwLzZhYTVhNWQwZGQ4Njc4ZTkzNjEzOTg5MDYwODhiNzYw.png"
       },
-      "employees_latest": null
+      "employees_latest": "200-500"
     }
   ]
 }
