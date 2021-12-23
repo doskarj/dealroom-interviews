@@ -53,6 +53,24 @@
             "100x100": "https://s3-eu-west-1.amazonaws.com/dealroom-images/89/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDE2LzA0LzAxL2JiMTFhMTE2NWNkMmEzYzcyYWY5YmMwMTVhNzY1M2Y5.jpg"
         },
         "employees_latest": 942
+    },
+    {
+        "name": "Microsoft",
+        "images": {
+            "32x32": "https://s3-eu-west-1.amazonaws.com/dealroom-images/1f/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMS8xMS8yNS80NDA3NjIyOGVjMDk5MTUzNWQ2ZGZkYzMyNmU4ZTgyZA==.png",
+            "74x74": "https://s3-eu-west-1.amazonaws.com/dealroom-images/d2/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMS8xMS8yNS80NDA3NjIyOGVjMDk5MTUzNWQ2ZGZkYzMyNmU4ZTgyZA==.png",
+            "100x100": "https://s3-eu-west-1.amazonaws.com/dealroom-images/d4/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIxLzExLzI1LzQ0MDc2MjI4ZWMwOTkxNTM1ZDZkZmRjMzI2ZThlODJk.png"
+        },
+        "employees_latest": 213801
+    },
+    {
+        "name": "Cisco",
+        "images": {
+            "32x32": "https://s3-eu-west-1.amazonaws.com/dealroom-images/c8/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMC8wNC8wNC9mZDUyMTRiNGQ1NzhkYmIzYmYyMWMyMzI4N2I0MWFmMA==.png",
+            "74x74": "https://s3-eu-west-1.amazonaws.com/dealroom-images/f7/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMC8wNC8wNC9mZDUyMTRiNGQ1NzhkYmIzYmYyMWMyMzI4N2I0MWFmMA==.png",
+            "100x100": "https://s3-eu-west-1.amazonaws.com/dealroom-images/43/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIwLzA0LzA0L2ZkNTIxNGI0ZDU3OGRiYjNiZjIxYzIzMjg3YjQxYWYw.png"
+        },
+        "employees_latest": 98381
     }
   ]
 }
